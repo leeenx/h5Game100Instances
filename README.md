@@ -9,4 +9,5 @@ H5小游戏100例 -- 计划中的仓库项目
 
 [1. 贪吃蛇](https://github.com/leeenx/snake)  
 [2. 一笔画](https://github.com/leeenx/OneStroke)
+[3. 消灭星星](https://github.com/leeenx/popstar)
 
